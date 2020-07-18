@@ -10,5 +10,6 @@ In this research, an optimized deep learning method was proposed to explore the 
 ### References
 - https://www.ge.com/news/reports/software-please-doctors-looking-ai-speed-diagnosis
 - https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
+- https://theconversation.com/heres-how-scientists-are-tracking-the-genetic-evolution-of-covid-19-134201
 - https://en.wikipedia.org/wiki/Genetic_algorithm
 - https://www.geeksforgeeks.org
